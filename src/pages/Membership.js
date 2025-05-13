@@ -12,7 +12,7 @@ function Membership() {
           <ul className="features-list">
             <li>發布基本任務</li>
             <li>查看任務列表</li>
-            <li>基本客服支援</li>
+            <li>酬勞抽成10%</li>
           </ul>
           <button className="plan-btn">當前方案</button>
         </div>
@@ -24,7 +24,7 @@ function Membership() {
             <li>優先任務曝光</li>
             <li>專屬客服支援</li>
             <li>進階搜尋功能</li>
-            <li>數據分析報告</li>
+            <li>酬勞不抽成</li>
           </ul>
           <button className="plan-btn">升級方案</button>
         </div>
